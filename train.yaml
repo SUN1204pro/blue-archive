@@ -1,0 +1,15 @@
+path: /Users/sunix/Documents/BlueArchive_Dataset  
+val: val/images
+test:  
+
+nc: 8
+
+names:
+  0: Izayoi Nonomi
+  1: Kuromi Serika
+  2: Okusora Ayane
+  3: Sunaookami Shiroko
+  4: Takanashi Hoshino
+  5: Hayase Yuuka
+  6: Ushio Noa
+  7: Sorasaki Hina
